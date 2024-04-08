@@ -1,0 +1,12 @@
+Route,location,X,Y,Distance from dumping site
+Route 1,Kohsoom,8.2,7,1.55
+Route 1,Boonsri,6,8.2,1.82
+Route 1,Busarakhan,8,6,2.51
+Route 1,Chai,7,5,3.59
+Route 2,Achara,4.2,7,3.9
+Route 2,Somchair,3,5.8,5.51
+Route 1,Kannika,7,2.5,6.05
+Route 3,Tansanee,3.2,2.5,7.56
+Route 2,Sakda,5.6,0.5,8.3
+Route 4,Decha,1,3.9,8.21
+Dumping site,Dumping site,7.8,8.5,0
