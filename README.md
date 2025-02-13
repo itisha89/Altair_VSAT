@@ -129,7 +129,10 @@ Nitrate has consistently shown the lowest levels of all chemicals throughout the
 
 Based on the findings from Task 1 and Task 2, it is inferred that the bird population could potentially be affected by the concentration of chemicals in the various locations. However, a definitive conclusion can only be reached with additional information regarding factors such as the quantity of pollutants emitted by the furniture company, the establishment date of the company, acceptable thresholds for each chemical, and so forth.
 
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
 
+---
 
 
 
